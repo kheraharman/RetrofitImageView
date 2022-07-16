@@ -18,5 +18,8 @@ public class Links {
     @SerializedName("likes")
     @Expose
     public String likes;
+    @SerializedName("harman")
+    @Expose
+    public String harman;
 
 }
